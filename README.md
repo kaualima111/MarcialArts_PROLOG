@@ -1,4 +1,4 @@
-# 🥋 MartialArts
+# MartialArts
 
 Este é um projeto feito em **Prolog** pelo site **SWISH Prolog**.  
 Neste projeto é solucionado um problema de lógica do site **RachaCuca**, utilizando a linguagem de programação **Prolog**.
